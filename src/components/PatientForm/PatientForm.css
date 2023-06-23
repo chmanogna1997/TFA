@@ -1,0 +1,57 @@
+.patient_form_container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    margin-top: 3rem;
+}
+
+.form-data{
+    display: flex;
+    flex-direction: column;
+
+    gap:0.3rem;
+    margin-left: 5rem;
+}
+
+.patient-name{
+    margin-left:4.5rem;
+}
+
+.address{
+    margin-left: 0.6rem;
+
+    height: 3rem;
+}
+
+.hospital-name{
+    margin-left : 0.6rem;
+}
+
+.DtService{
+   margin-left:0.3rem 
+}
+
+.bill-amount{
+    margin-left: 0.8rem;
+}
+
+.bill_files{
+    margin-left: 2.3rem;
+}
+
+.patient_submit_btn{
+    width: 6rem;
+}
+
+.submit_container{
+    display: flex;
+    margin-top: 1rem;
+    justify-content: center;
+}
+
+.error{
+    color: red;
+}
+
+

@@ -1,0 +1,14 @@
+.header_section{
+    display: flex;
+    justify-content: space-around;
+    background: antiquewhite;
+    padding: 0.3rem;
+}
+
+.nav_section{
+    margin-top: 2rem;
+}
+
+.nav_section button{
+    margin: 0.3rem;
+}
